@@ -1,5 +1,11 @@
 # main links
 main:
+  - title: "Meet the couple"
+    url: /meetthecouple/
+  - title: "Our Story"
+    url: /story/
+  - title: "FAQs"
+    url: /faqs/
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
