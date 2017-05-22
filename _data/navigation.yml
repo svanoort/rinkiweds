@@ -1,13 +1,11 @@
 # main links
 main:
+  - title: "Wish the couple"
+    url: /wishthecouple/
   - title: "Meet the couple"
     url: /meetthecouple/
-  - title: "Our Story"
-    url: /story/
   - title: "FAQs"
     url: /faqs/
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
