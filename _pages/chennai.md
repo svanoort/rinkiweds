@@ -1,8 +1,6 @@
 ---
-layout: archive
 title: "Vritant and Rinki's wedding: Ceremonies at Chennai!"
 permalink: /chennai/
-author_profile: false
 ---
 **Monday the 3rd of July 2017**
 
@@ -31,7 +29,7 @@ please allow a minute for the map to download..
 
 ## How to share photos from the event on this page
 Please send us a message with your email address below
-<vr> (or another way to find you on facebook )
+<br> (or another way to find you on facebook )
 <br> and we will make you an editor of our facebook page immediately,
 <br> then you can share your own pictures from the event!
 <div class="fb-page"
@@ -69,14 +67,4 @@ Please send us a message with your email address below
     </blockquote>
 </div>
 
-
-
-
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.9";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
+## RSVP

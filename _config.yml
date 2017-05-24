@@ -233,14 +233,17 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
+  # _pages
   - scope:
       path: ""
       type: pages
     values:
       layout: single
-      author_profile: true
-      read_time: true
+      author_profile: false
+      read_time: false
       comments: true
-      share: true
+      share: false
       related: true
+      sidebar:
+        title: "Links"
+        nav: sidebar-menu

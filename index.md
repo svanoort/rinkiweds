@@ -1,7 +1,4 @@
 ---
-layout: splash
-author_profile: false
-read_time: false
 ---
 ## 3rd July 2017, Chennai, India.
 <figure class="half">

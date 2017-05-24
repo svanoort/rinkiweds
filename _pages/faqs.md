@@ -1,7 +1,4 @@
 ---
-layout: splash
-author_profile: false
-read_time: false
 permalink: /faqs/
 ---
 * is this an arranged marriage?

@@ -14,3 +14,17 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+sidebar-menu:
+  - title: "Meet the couple"
+    url: /meetthecouple/
+  - title: "Wish the couple"
+    url: /wishthecouple/
+  - title: "Ceremonies at Chennai"
+    url: /chennai/
+  - title: "Reception at Hyderabad"
+    url: /hydreception/
+  - title: "Family gettogether"
+    url: /gettogether/
+  - title: "FAQs"
+    url: /faqs/
