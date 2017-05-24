@@ -4,6 +4,12 @@ main:
     url: /wishthecouple/
   - title: "Meet the couple"
     url: /meetthecouple/
+  - title: "Ceremonies at Chennai"
+    url: /chennai/
+  - title: "Reception at Hyderabad"
+    url: /hydreception/
+  - title: "Family gettogether"
+    url: /gettogether/
   - title: "FAQs"
     url: /faqs/
   # - title: "About"
