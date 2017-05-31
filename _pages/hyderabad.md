@@ -1,13 +1,14 @@
 ---
-title: "Vritant and Rinki's wedding: Reception at Hyderabad!"
-permalink: /hydreception/
+title: "Vritant and Rinki's wedding: Dinner at Hyderabad!"
+permalink: /hyderabad/
 ---
-**Tuesday the 4th of July 2017, 7 pm onwards.**
+
+We would cherish the presence of our friends in Hyderabad and business colleagues on **Tuesday the 4th of July 2017, 6 pm onwards**, for a dinner gathering to celebrate with the newly weds.
 
 {% include toc title="Index" icon="file-text" %}
 
 ## Venue
-At Ragi Convention Centre,
+Ragi Convention Centre,
 <br>Thumkunta Village,
 <br>Karimnagar Main Road
 <br>Shameerpet Mandal.
@@ -39,7 +40,7 @@ Please send us a message with your email address below
     </blockquote>
 </div>
 
-## Live Photography
+## Share Live Photographs
 <div class="fb-page"
   data-href="https://www.facebook.com/Rinkiwedsvritanthydreception-128580734375414/" 
   data-tabs="timeline" 

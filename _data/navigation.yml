@@ -1,36 +1,31 @@
-# main links
 main:
-  - title: "Wish the couple"
-    url: /wishthecouple/
   - title: "Meet the couple"
     url: /meetthecouple/
-  - title: "Ceremonies at Chennai"
-    url: /chennai/
-  - title: "Reception at Hyderabad"
-    url: /hydreception/
-  - title: "Family gettogether"
-    url: /gettogether/
+  - title: "Our story"
+    url: /ourstory/
+  - title: "Wish the couple"
+    url: /wishthecouple/
   - title: "FAQs"
     url: /faqs/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Ceremonies at Chennai"
+    url: /chennai/
+  - title: "Dinner at Hyderabad"
+    url: /hyderabad/
+  - title: "Family get together"
+    url: /gettogether/
 
 sidebar-menu:
   - title: "Meet the couple"
     url: /meetthecouple/
+  - title: "Our story"
+    url: /ourstory/
   - title: "Wish the couple"
     url: /wishthecouple/
   - title: "Ceremonies at Chennai"
     url: /chennai/
-  - title: "Reception at Hyderabad"
-    url: /hydreception/
-  - title: "Family gettogether"
+  - title: "Dinner at Hyderabad"
+    url: /hyderabad/
+  - title: "Family get together"
     url: /gettogether/
   - title: "FAQs"
     url: /faqs/

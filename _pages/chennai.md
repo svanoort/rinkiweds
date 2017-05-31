@@ -2,7 +2,7 @@
 title: "Vritant and Rinki's wedding: Ceremonies at Chennai!"
 permalink: /chennai/
 ---
-**Monday the 3rd of July 2017**
+**on Monday the 3rd of July 2017**
 
 {% include toc title="Index" icon="file-text" %}
 
@@ -49,7 +49,7 @@ Please send us a message with your email address below
     </blockquote>
 </div>
 
-## Live Photography
+## Share Live Photographs
 <div class="fb-page"
   data-href="https://www.facebook.com/Rinkiwedsvritantatchennai-108556343065253/" 
   data-tabs="timeline" 

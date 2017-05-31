@@ -1,5 +1,5 @@
 ---
-title: "Vritant and Rinki's wedding: Gettogether in Hyderabad!"
+title: "Vritant and Rinki's wedding: Get together in Hyderabad!"
 permalink: /gettogether/
 header:
   image: assets/images/gettogether2.jpg
@@ -10,7 +10,6 @@ header:
 {% include toc title="Index" icon="file-text" %}
 
 ## Venue
-![no-alignment]({{ site.url }}{{ site.baseurl }}/assets/images/alankrita.jpg)
 <br>**Alankrita Resort**,
 <br>Thumkunta Village,
 <br>Shameerpet Mandal,
@@ -18,6 +17,7 @@ header:
 <br>Hyderabad,
 <br>Telangana 500078
 <br>website: [www.aalankrita.com](http://www.aalankrita.com/)
+![no-alignment]({{ site.url }}{{ site.baseurl }}/assets/images/alankrita.jpg)
 
 
 ## How to get to the venue
@@ -26,8 +26,8 @@ please allow a minute for the map to download..
 
 
 ## Schedule
-To be decided! do you have ideas? are you excited for this event?
-<br> Please comment here:
+coming up soon! are you excited to attend the get together and would you like to participate in any cultural event, dance, sing for us, or simply share some words?
+<br> Please comment here so we can interactively plan the event:
 <div class="fb-comments"
   data-href="http://rinkiweds.vritant.com/gettogether/"
   data-width="500"
@@ -59,7 +59,7 @@ Please send us a message with your email address below
 </div>
 
 
-## Live Photography
+## Share Live Photographs
 <div class="fb-page"
   data-href="https://www.facebook.com/Rinkiwedsvritantgettogether-143640362846231/" 
   data-tabs="timeline" 
